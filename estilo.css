@@ -133,13 +133,17 @@ body {
 	color: #343a40;
 }
 
+.tile p{
+  color: #000000;
+}
+
 .tile{
 	width: 100%;
-	background:#fff;
+	background:aliceblue;
 	border-radius:5px;
 	float:left;
-  	transform-style: preserve-3d;
-  	margin: 1px 1px;
+  transform-style: preserve-3d;
+  margin: 1px 1px;
 
 
 }
